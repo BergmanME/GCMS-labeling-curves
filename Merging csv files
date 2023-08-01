@@ -1,0 +1,12 @@
+Save all of the CSV files into a single folder.
+
+Make sure that the folder is free from any CSV’s you do not want included in the compression.
+
+Open Command Prompt (cmd)
+
+Navigate to folder and get path
+Shift + right-click, copy address as text
+
+cd C:\Users\Matt\Downloads\230801_Labeling for Sonia\To_merge
+
+copy *.csv combined_csv.csv
