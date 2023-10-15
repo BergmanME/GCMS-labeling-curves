@@ -4,4 +4,4 @@ py -m pip install name_of_desired_package
 
 ie:
 
-py -m pip install inquirer
+py -m pip install ipywidgets
